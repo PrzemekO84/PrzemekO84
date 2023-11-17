@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Przemek
-- 👀 I’m interested in sports, computer games, music and programming!
+- 👀 I’m interested in sports, computer games, history, animals, music and programming!
 - 🔭 I’m currently studying IT on Akademia Gornoslaska in Katowice, Poland.
 - 🌱 I’m currently learning some programming languages (Python, JavaScript, C#), Databases (MySQL) and Linux.
 - 👯 I’m looking to collaborate on internship as a JavaScript, Python or database Developer.
