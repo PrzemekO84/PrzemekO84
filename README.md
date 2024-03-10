@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, computer games, history, animals, music and programming!
 - 🔭 I’m currently studying IT on Akademia Gornoslaska in Katowice, Poland.
 - 🌱 I’m currently learning some programming languages (Python, JavaScript, C#), Databases (MySQL) and Linux.
-- 👯 I’m looking to collaborate on internship as a JavaScript, Python or database Developer.
+- 👯 I’m looking to collaborate on internship as a JavaScript, Python, C# or database Developer.
 - 📫 How to reach me: przemekorzechowski53@gmial.com
 
 <!---
